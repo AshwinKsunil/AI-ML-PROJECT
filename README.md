@@ -9,9 +9,9 @@ Our AIML Goal: Automatic Grouping
 
 Our project uses Unsupervised Machine Learning (CO4) to automatically sort all customers into 3 distinct, smart groups based on two simple numbers:
 
-Annual Spending (How much money they spent)??
+Annual Spending (How much money they spent)?
 
-Visit Frequency (How often they shop)??
+Visit Frequency (How often they shop)?
 
 -----------------------------------------
 
